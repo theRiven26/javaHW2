@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-12T18:19:05.646556600Z</date>
+  <millis>1678645145646</millis>
+  <nanos>556600</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Ввод пользователя: 2+3 результат: 5.0</message>
+</record>
+</log>

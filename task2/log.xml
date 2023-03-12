@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-12T12:09:53.710901700Z</date>
+  <millis>1678622993710</millis>
+  <nanos>901700</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 1 и 2 получили массив:[1, 6, 25, 18, 9, 4, 5, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.812895200Z</date>
+  <millis>1678622993812</millis>
+  <nanos>895200</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 2 и 3 получили массив:[1, 6, 18, 25, 9, 4, 5, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.813897400Z</date>
+  <millis>1678622993813</millis>
+  <nanos>897400</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 3 и 4 получили массив:[1, 6, 18, 9, 25, 4, 5, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.814896200Z</date>
+  <millis>1678622993814</millis>
+  <nanos>896200</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 4 и 5 получили массив:[1, 6, 18, 9, 4, 25, 5, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.815895Z</date>
+  <millis>1678622993815</millis>
+  <nanos>895000</nanos>
+  <sequence>4</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 5 и 6 получили массив:[1, 6, 18, 9, 4, 5, 25, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.816896700Z</date>
+  <millis>1678622993816</millis>
+  <nanos>896700</nanos>
+  <sequence>5</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 2 и 3 получили массив:[1, 6, 9, 18, 4, 5, 25, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.817897Z</date>
+  <millis>1678622993817</millis>
+  <nanos>897000</nanos>
+  <sequence>6</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 3 и 4 получили массив:[1, 6, 9, 4, 18, 5, 25, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.818895300Z</date>
+  <millis>1678622993818</millis>
+  <nanos>895300</nanos>
+  <sequence>7</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 4 и 5 получили массив:[1, 6, 9, 4, 5, 18, 25, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.818895300Z</date>
+  <millis>1678622993818</millis>
+  <nanos>895300</nanos>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 2 и 3 получили массив:[1, 6, 4, 9, 5, 18, 25, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.819895100Z</date>
+  <millis>1678622993819</millis>
+  <nanos>895100</nanos>
+  <sequence>9</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 3 и 4 получили массив:[1, 6, 4, 5, 9, 18, 25, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.820894900Z</date>
+  <millis>1678622993820</millis>
+  <nanos>894900</nanos>
+  <sequence>10</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 1 и 2 получили массив:[1, 4, 6, 5, 9, 18, 25, 30]</message>
+</record>
+<record>
+  <date>2023-03-12T12:09:53.821895600Z</date>
+  <millis>1678622993821</millis>
+  <nanos>895600</nanos>
+  <sequence>11</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Поменяли местами индексы: 2 и 3 получили массив:[1, 4, 5, 6, 9, 18, 25, 30]</message>
+</record>
+</log>
